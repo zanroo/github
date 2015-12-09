@@ -1,7 +1,7 @@
 {
-  "name": "node-template",
+  "name": "github",
   "version": "0.0.1",
-  "description": "Node template",
+  "description": "github",
   "main": "index.js",
   "directories": {
     "test": "test"
